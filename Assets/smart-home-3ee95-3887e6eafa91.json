@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-home-3ee95",
+  "private_key_id": "3887e6eafa9192ad6ce2790873ca5674bf2e8ce5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCmPqMNaPUlKvLV\nbAogvjd4gHWrLfrtZgZRXkSeTuL42fOOGoIirQ+zM5KZf+FR6dQfuowQQHvFwBFt\nwIfsuhgdlSYWKzMyc2lDKcFiLH4HkO/+LeTzDlfrkvHR3MIA6Tlj7qnYuVXzJgZp\nI54Oi88ucl4voAzBjoRm00xTgPWhh+pSAk8jjucLrwtT2YHx9IOGQqaoXYIokqgL\nAunwq9ulQqxdAp2Wlffys8q+NK6gg/zJj7RtT47gdDzZRteNmKnHr3WLTIjys2nY\nYNczjSYYnFWR9j9EzobDEDwT8zY+h+MzvqX0yYtQWSjIll2NPPtxd4wIsRNBHHZ/\n5P4R53nLAgMBAAECggEASXCfSEPHFCHKf7TILpnJWH7rPHFGCgzJmrV5u7Oeug9S\ndELKnXX1WxVb3FqtV6nj7xZSXLWX2A6WxHTKty2ojJ0AY8e2yMFKTYTLLMr56+6/\nznpIy4TZGzThhfOvcoaVN0vOFXMegJkaOOUmpEdoAZ09dW2PZQxH+kK606LDIBV7\ndxmJTqNq1texIqRGPuorU0eOxMiX9F+mk4LtRkjlFEVW9+PHgErP4Ka7IYVuam9z\n4m0xq37NEm7xHWIOsxf5S/mhypg88SoSBHeYfc6ata6FTLVOBD+9yiZJu9uFg9P/\nXzuteS58vRqXdIGfYFWygFZ2VWnAggZBzFIZXQVYmQKBgQDfjAthVz5xhnb8UMDm\nu+oOmyOOVyemB65sMt1stAKbfrP5yxi04SAkXqZyplk+sUUsZLV2JIa2YcaNcmku\nTxqS82xmLesmYilX6PPaM+dTIs2+aQi2BN6DNX4QiuUt4hCuSP78evkaTNOZI2l2\nxkstkZhvgGIUETsLLlNCtpx8qQKBgQC+YP5UrpfUmsR/cuL6cRmNjcKiX+c4+CLX\nt10CCMbp3YHBLhKAOyreQFur+oNhilQZZu8nl9XsRw9PGL3xWjLWTWhUCXz1qs41\nMaLtWBRZY2W4Vr+F2XF87cedSWw+r4bBFrQkm23JrOmDyWbkC5LwsytShmylYIQD\nrS1bJET3UwKBgQCEmXNep/t4J4SIofXqZ2ishUWP9w6jo0bJE1rYUeaCCaQD9X6Q\nPEFukV41/4pMb6ZScOJaU8w8fr7hxA2z1GQ06oNQEMi9GdjgNmP++G6sl6Zm3bK3\nFShPt/kxItJSZxfx6YamiOMdwJh669BxDaomO4iqCwMiWB4nwbDNj7g/EQKBgQCD\n0l9ovXfuQ7gZ07As35Fk/aquih9tyAtAOPwSw4cQOkt1OvSei9mUCRYw0AaWzJSM\n/kRMswryTwXfq+8hpmYbE4BQ6Dz5Umr0VElPdLSqbHPrn02AXd8CNRcJ5uQnx5xU\nKOdVjbYIdk0+7n7rGsSFHFq8Cs5B+MGQViJYwJVsdwKBgQC7zbLoTneJTY91Ykia\np0C9JfiaxW9NrL9VcLuhaJXH1Z3qgsoWd5JV8tL58AZwBAJZmpj8V9c9SNFy2Ncb\nUXOj1OgX84kWzIhAGfSCGewXyGAFalZ1qN16Zf61WPWTl4+Jy16OpOHxPQ5Tip0g\n1CA6HxUMb25VjvkP3AjYrWRsmw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-home-3ee95@appspot.gserviceaccount.com",
+  "client_id": "115702802564802538559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-home-3ee95%40appspot.gserviceaccount.com"
+}
